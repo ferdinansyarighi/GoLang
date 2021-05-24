@@ -1,7 +1,7 @@
 # GoLang
 Learn Go-Lang
 
-Repository ini berisi tahapan saya belajar Go-Lang, semua hasil belajar saya dimasukkan ke dalam folder dan bisa langsung diakses karena sudah ditempatkan pada index
+Repository ini berisi tahapan saya belajar Go-Lang.
 
 # Disclaimer
 * Bahan pembelajaran saya berasal dari artikel, dokumentasi resmi, komunitas, stackoverflow, youtube, dll
